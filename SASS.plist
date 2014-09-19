@@ -262,6 +262,7 @@
         <string><![CDATA[background-image]]></string>
         <string><![CDATA[background-position]]></string>
         <string><![CDATA[background-repeat]]></string>
+        <string><![CDATA[background-size]]></string>
         <string><![CDATA[background]]></string>
         <string><![CDATA[blueprint-utility_classes]]></string>
         <string><![CDATA[border-bottom-color]]></string>
@@ -289,6 +290,7 @@
         <string><![CDATA[clear]]></string>
         <string><![CDATA[color]]></string>
         <string><![CDATA[color]]></string>
+        <string><![CDATA[content]]></string>
         <string><![CDATA[direction]]></string>
         <string><![CDATA[display]]></string>
         <string><![CDATA[float]]></string>
